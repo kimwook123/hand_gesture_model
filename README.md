@@ -73,6 +73,7 @@ PC 미디어 제어
 ### Language
 
 - Python
+- ---
 🖐 Hand Landmark
 
 MediaPipe Hand Landmarker는 한 손에서 총 21개의 랜드마크를 추출합니다.
