@@ -39,13 +39,13 @@ XGBoost 분류
   ↓
 PC 미디어 제어
 ```
-🎯 인식하는 제스처
-손 제스처	클래스	실행 기능
-✊ 주먹 쥐기	stop	재생 정지
-🖐 손바닥 펴기	play	재생
-☝ 검지만 위로 펴기	volume_up	볼륨 증가
-👎 엄지만 아래로 향하기	volume_down	볼륨 감소
-✌ V자 만들기	next	다음 곡
+🎯 인식하는 제스처   
+손 제스처	클래스	실행 기능   
+✊ 주먹 쥐기	stop	재생 정지   
+🖐 손바닥 펴기	play	재생   
+☝ 검지만 위로 펴기	volume_up	볼륨 증가   
+👎 엄지만 아래로 향하기	volume_down	볼륨 감소   
+✌ V자 만들기	next	다음 곡   
 🛠 사용 기술
 Computer Vision
 OpenCV
