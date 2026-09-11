@@ -39,27 +39,40 @@ XGBoost 분류
   ↓
 PC 미디어 제어
 ```
-🎯 인식하는 제스처   
-손 제스처	클래스	실행 기능   
-✊ 주먹 쥐기	stop	재생 정지   
-🖐 손바닥 펴기	play	재생   
-☝ 검지만 위로 펴기	volume_up	볼륨 증가   
-👎 엄지만 아래로 향하기	volume_down	볼륨 감소   
-✌ V자 만들기	next	다음 곡   
-🛠 사용 기술
-Computer Vision
-OpenCV
-MediaPipe Tasks
-MediaPipe Hand Landmarker
-Machine Learning
-XGBoost
-Scikit-learn
-NumPy
-Pandas
-PC Control
-PyAutoGUI
-Language
-Python
+## 🎯 인식하는 제스처
+
+| 손 제스처 | 클래스 | 실행 기능 |
+|---|---|---|
+| ✊ 주먹 쥐기 | `stop` | 재생 정지 |
+| 🖐 손바닥 펴기 | `play` | 재생 |
+| ☝ 검지만 위로 펴기 | `volume_up` | 볼륨 증가 |
+| 👎 엄지만 아래로 향하기 | `volume_down` | 볼륨 감소 |
+| ✌ V자 만들기 | `next` | 다음 곡 |
+
+---
+
+## 🛠 사용 기술
+
+### Computer Vision
+
+- OpenCV
+- MediaPipe Tasks
+- MediaPipe Hand Landmarker
+
+### Machine Learning
+
+- XGBoost
+- Scikit-learn
+- NumPy
+- Pandas
+
+### PC Control
+
+- PyAutoGUI
+
+### Language
+
+- Python
 🖐 Hand Landmark
 
 MediaPipe Hand Landmarker는 한 손에서 총 21개의 랜드마크를 추출합니다.
